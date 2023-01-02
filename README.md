@@ -3,7 +3,7 @@
 - [Summary](#summary) 
 - [Newman Report](#summary) 
 # Discription 
-This document explains how I have API Testing of restful-booker.I have done Create Token ,Create Book, Get book information,Update Book information, Update Specific book information, Delete Book Tesing by Using Postman.
+This document explains how I have done API Testing of restful-booker.I have done Create Token ,Create Book, Get book information,Update Book information, Update Specific book information, Delete Book Tesing by Using Postman.
 
 
 # Summary 
