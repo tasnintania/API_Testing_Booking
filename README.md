@@ -24,4 +24,4 @@ The Summary of all the tasks done for the restful-booker websites are given belo
 # Newman Report
 The Report of all the tasks done for the restful-booker websites are given below with a table.
 
-![newman report](Image/newman_report.jpeg)
+![Newman Report](Image/newman_report.jpeg)
