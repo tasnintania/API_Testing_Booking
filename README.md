@@ -3,8 +3,19 @@
 - [Summary](#summary) 
 - [Newman Report](#newmanreport) 
 # Discription 
-This document explains how I have done API Testing of restful-booker. I have done Create Token ,Create Book, Get book information,Update Book information, Update Specific book information, Delete Book Tesing by Using Postman.
+I have completed an API testing on a Book booking website. The following website is the website i have tested. https://restful-booker.herokuapp.com/
 
+Tasks Done
+
+-CRUD Operation such as Create, Get, Put & Patch, Delete.
+
+-Writing Pre-request Scripts using Dynamic Parameter.
+
+-API Request & Response Chaining.
+
+-Writing Test Scripts For Data Validation.
+
+-Newman HTML & HTML Extra Report.
 
 # Summary 
 The Summary of all the tasks done for the restful-booker websites are given below with a table.
